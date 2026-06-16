@@ -33,10 +33,10 @@ I research at the **Ruiz HCI Lab** and **Data Science Research Lab** (University
 
 ## 🧰 Tech
 
-**ML & CV** &nbsp;·&nbsp; PyTorch · TensorFlow · OpenCV · scikit-learn
-**LLMs & Agents** &nbsp;·&nbsp; LangChain · Hugging Face · Transformers
-**Systems & Deployment** &nbsp;·&nbsp; Docker · FastAPI · Flask · Pydantic · Linux · Bash · ROS · SLURM/HPC
-**Languages** &nbsp;·&nbsp; Python · C++ · SQL · F# · Java · C · C#
+- **ML & CV** — PyTorch · TensorFlow · OpenCV · scikit-learn
+- **LLMs & Agents** — LangChain · Hugging Face · Transformers
+- **Systems & Deployment** — Docker · FastAPI · Flask · Pydantic · Linux · Bash · ROS · SLURM/HPC
+- **Languages** — Python · C++ · SQL · F# · Java · C · C#
 
 ---
 
