@@ -4,7 +4,7 @@
 
 I work on **video understanding, computer vision, and real-time ML systems**, building end-to-end pipelines for video analysis, detection, segmentation, and retrieval across real-time and offline settings. I'm currently seeking **full-time ML / AI Engineer roles**.
 
-🌐 [michaelfperez.com](https://www.michaelfperez.com) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=fCzyXhUAAAAJ&hl=en) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/michael-perez-8b555a43/) &nbsp;·&nbsp; 📄 [CV](https://www.michaelfperez.com/files/CV.pdf)
+🌐 [michaelfperez.com](https://www.michaelfperez.com) &nbsp;·&nbsp; 🎓 [Google Scholar](https://scholar.google.com/citations?user=fCzyXhUAAAAJ&hl=en) &nbsp;·&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/michaelperez023/) &nbsp;·&nbsp; 📄 [CV](https://www.michaelfperez.com/files/CV.pdf)
 
 ---
 
@@ -40,4 +40,4 @@ I research at the **Ruiz HCI Lab** and **Data Science Research Lab** (University
 
 ---
 
-📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/michael-perez-8b555a43/) or [michaelfperez.com](https://www.michaelfperez.com)
+📫 Best way to reach me: [LinkedIn](https://www.linkedin.com/in/michaelperez023/) or [michaelfperez.com](https://www.michaelfperez.com)
