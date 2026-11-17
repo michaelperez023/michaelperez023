@@ -20,7 +20,7 @@ I build and evaluate machine learning systems for video and images: the models, 
 
 ## 🔬 Research
 
-- **Efficient video action detection (Ph.D. thesis)** — a causal, online action-detection model that matches the strongest verified strictly-causal detector on THUMOS at roughly 60% of its parameters and 2.5–2.9× its throughput, running in real time at 37.7 FPS · *first-author manuscript in preparation*
+- **Efficient video action detection (Ph.D. thesis)** — a causal, online action-detection model that matches the strongest verified strictly-causal detector on THUMOS at roughly 60% of its parameters and 2.4× its throughput, running in real time at 37.7 FPS · *first-author manuscript in preparation*
 - **CReLeRI** — explainable long-video analysis system · *first-author demo, ACM Multimedia 2025* · [`creleri-video`](https://github.com/michaelperez023/creleri-video)
 - **ENKIx** — real-time AR task-guidance system (DARPA-funded) · trained and tested action-recognition models, including fine-tuning the video-language model LaViLa
 - **MuCHEx** — multimodal conversational debugging tool for hierarchical object classification · *IEEE Computer Graphics and Applications, 2025*
@@ -31,12 +31,12 @@ I build and evaluate machine learning systems for video and images: the models, 
 
 ## 🚀 Featured Projects
 
-- [**creleri-video**](https://github.com/michaelperez023/creleri-video) — Explainable long-video analysis system (FastAPI backend + web UI) from the CReLeRI ACM Multimedia 2025 demo
-- [**gossip-simulator**](https://github.com/michaelperez023/gossip-simulator) — Distributed gossip & push-sum protocol simulator in F#, scaling past 2 million nodes
+- [**creleri-video**](https://github.com/michaelperez023/creleri-video) — Explainable long-video analysis system from the CReLeRI ACM Multimedia 2025 demo: model services behind a FastAPI + Celery/Redis job queue, with a Flask web UI
+- [**gossip-simulator**](https://github.com/michaelperez023/gossip-simulator) — Gossip and push-sum protocol simulator in F# with Akka.NET (one actor per node), written with Blas Kojusner and benchmarked on networks of up to a million nodes
 - [**michaelperez-portfolio**](https://github.com/michaelperez023/michaelperez-portfolio) — Source for my portfolio site (React + Vite) → [michaelfperez.com](https://www.michaelfperez.com)
 - [**VideoGAN**](https://github.com/michaelperez023/VideoGAN) — Investigation of VideoGAN for video generation and recognition
-- [**urdu-abstractive-summarization**](https://github.com/michaelperez023/urdu-abstractive-summarization) — Abstractive summarization for a Urdu news-article dataset (NLP)
-- [**hermes-tracker**](https://github.com/michaelperez023/hermes-tracker) — Flutter app for tracking mail & packages at Florida Poly's mail center
+- [**urdu-abstractive-summarization**](https://github.com/michaelperez023/urdu-abstractive-summarization) — Urdu news headline generation with mT5 (NLP team project)
+- [**hermes-tracker**](https://github.com/michaelperez023/hermes-tracker) — Flutter app for a university mail center (team project; I wrote the Letters menu and the Scan button), with a [live web demo](https://michaelperez023.github.io/hermes-tracker/)
 
 ---
 
